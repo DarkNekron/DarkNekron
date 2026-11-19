@@ -3,8 +3,8 @@
 Cybersecurity-focused engineer. I like understanding how systems break so I can help defend them,
 especially **Active Directory security, attack-path analysis and malware detection**.
 
-#### 🔭 Currently building
-**AEGIS: Active Directory Attack Path Discovery & Intelligence Engine** *(in progress, public soon)*
+#### 🛡️ Featured project
+**[AEGIS: Active Directory Attack Path Discovery & Intelligence Engine](https://github.com/DarkNekron/aegis)**
 An offline, read-only platform that ingests BloodHound/SharpHound data, rebuilds the AD graph and finds
 privilege-escalation paths with its own graph algorithms. It also scores risk transparently and simulates remediation ("what if we remove this permission?").
 Built with Python/FastAPI, NetworkX, React/TypeScript and Cytoscape.js.
